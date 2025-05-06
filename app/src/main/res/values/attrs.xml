@@ -1,0 +1,8 @@
+<resources>
+    <attr name="numberButtonBackground" format="color|reference"/>
+    <attr name="importantButtonBackground" format="color|reference"/>
+    <attr name="advancedButtonBackground" format="color|reference"/>
+    <attr name="buttonTextColor" format="color|reference"/>
+    <attr name="buttonBorderColor" format="color|reference"/>
+    <attr name="appBackground" format="color|reference"/>
+</resources>

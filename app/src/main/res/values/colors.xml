@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pressed">#D3D3D3</color>
+    <color name="dark_gray">#696969</color>
+
+    <color name="background">#010101</color>
+    <color name="number">#2b2b2b</color>
+    <color name="advanced">#1c1c1c</color>
+    <color name="textColor">#fbfbfb</color>
+    <color name="important">#fe9e09</color>
+
+
+    <color name="cb_background">#fbfbfb</color>
+    <color name="cb_number">#2b2b2b</color>
+    <color name="cb_advanced">#1c1c1c</color>
+    <color name="cb_textColor">#FF000000</color>
+    <color name="cb_important">#fe9e09</color>
+
+
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <!-- Dark theme variation -->
+    <style name="Theme.Calculator" parent="Base.Theme.Calculator">
+        <!-- Dark theme specific overrides -->
+        <item name="colorPrimary">@color/important</item>
+    </style>
+</resources>

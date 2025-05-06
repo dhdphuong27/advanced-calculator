@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Calculator" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <!-- Default theme -->
+    <style name="Theme.Calculator.Default" parent="Base.Theme.Calculator">
+        <item name="buttonBorderColor">@color/dark_gray</item>
+        <item name="numberButtonBackground">@color/number</item>
+        <item name="importantButtonBackground">@color/important</item>
+        <item name="advancedButtonBackground">@color/advanced</item>
+        <item name="buttonTextColor">@color/textColor</item>
+        <item name="appBackground">@color/background</item>
+    </style>
+
+    <!-- Colorblind theme -->
+    <style name="Theme.Calculator.Colorblind" parent="Base.Theme.Calculator">
+        <item name="buttonBorderColor">@color/dark_gray</item>
+        <item name="numberButtonBackground">@color/white</item>
+        <item name="importantButtonBackground">@color/white</item>
+        <item name="advancedButtonBackground">@color/white</item>
+        <item name="buttonTextColor">@color/cb_textColor</item>
+        <item name="appBackground">@color/cb_background</item>
+    </style>
+</resources>
